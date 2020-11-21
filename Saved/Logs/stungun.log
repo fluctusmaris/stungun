@@ -1245,3 +1245,73 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.21-13.21.07:665][222]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
 [2020.11.21-13.21.07:665][222]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
 [2020.11.21-13.21.09:713][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.11.21-13.43.51:233][611]LogEditorViewport: Clicking on Actor (LMB): ideas_C (ideas11)
+[2020.11.21-13.43.54:973][ 32]LogEditorViewport: Clicking on Actor (LMB): way_out_C (way_out)
+[2020.11.21-13.43.57:453][320]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/way_out.way_out
+[2020.11.21-13.43.57:699][320]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2020.11.21-13.44.05:521][198]BlueprintLog: New page: Compile way_out
+[2020.11.21-13.44.05:581][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.11.21-13.44.05:954][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/way_out" FILE="../../../../Unreal Projects/stungun/Content/Blueprints/way_out.uasset" SILENT=true
+[2020.11.21-13.44.05:998][231]LogSavePackage: Moving '../../../../Unreal Projects/stungun/Saved/way_out1103FFC04DEE817F0369FEB06230BCFB.tmp' to '../../../../Unreal Projects/stungun/Content/Blueprints/way_out.uasset'
+[2020.11.21-13.44.06:012][231]AssetCheck: New page: Asset Save: way_out
+[2020.11.21-13.44.06:012][231]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/way_out.way_out
+[2020.11.21-13.44.14:153][196]BlueprintLog: New page: Compile way_out
+[2020.11.21-13.44.14:211][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.11.21-13.44.14:627][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/way_out" FILE="../../../../Unreal Projects/stungun/Content/Blueprints/way_out.uasset" SILENT=true
+[2020.11.21-13.44.14:645][233]LogSavePackage: Moving '../../../../Unreal Projects/stungun/Saved/way_out7B7A3F2249A2408B8D3847AB03115874.tmp' to '../../../../Unreal Projects/stungun/Content/Blueprints/way_out.uasset'
+[2020.11.21-13.44.14:656][233]AssetCheck: New page: Asset Save: way_out
+[2020.11.21-13.44.14:656][233]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/way_out.way_out
+[2020.11.21-13.44.24:363][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/1" FILE="../../../../Unreal Projects/stungun/Content/levels/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.21-13.44.24:391][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.11.21-13.44.24:503][368]LogSavePackage: Moving '../../../../Unreal Projects/stungun/Saved/1028974D543377840C4264497F0052622.tmp' to '../../../../Unreal Projects/stungun/Content/levels/1.umap'
+[2020.11.21-13.44.24:534][368]LogFileHelpers: Saving map '1' took 0.172
+[2020.11.21-13.44.24:546][368]AssetCheck: New page: Asset Save: 1
+[2020.11.21-13.44.24:546][368]LogContentValidation: Display: Validating World /Game/levels/1.1
+[2020.11.21-13.44.25:134][430]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.11.21-13.44.25:135][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.21-13.45.14:235][ 75]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.21-13.45.14:235][ 75]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.21-13.47.07:565][237]BlueprintLog: New page: Compile user_interface_widget
+[2020.11.21-13.47.07:635][237]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.11.21-13.47.07:975][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/widgets/user_interface_widget" FILE="../../../../Unreal Projects/stungun/Content/ui/widgets/user_interface_widget.uasset" SILENT=true
+[2020.11.21-13.47.08:100][271]LogSavePackage: Moving '../../../../Unreal Projects/stungun/Saved/user_interface_widgetD3AEE7214BA772602EED9A9B8972AD57.tmp' to '../../../../Unreal Projects/stungun/Content/ui/widgets/user_interface_widget.uasset'
+[2020.11.21-13.47.08:110][271]AssetCheck: New page: Asset Save: user_interface_widget
+[2020.11.21-13.47.08:110][271]LogContentValidation: Display: Validating WidgetBlueprint /Game/ui/widgets/user_interface_widget.user_interface_widget
+[2020.11.21-13.47.11:033][614]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.21-13.47.11:033][614]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.21-13.47.34:428][381]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.21-13.47.34:428][381]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.21-13.47.36:941][678]BlueprintLog: New page: Compile user_interface_widget
+[2020.11.21-13.47.36:993][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.11.21-13.47.37:375][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/widgets/user_interface_widget" FILE="../../../../Unreal Projects/stungun/Content/ui/widgets/user_interface_widget.uasset" SILENT=true
+[2020.11.21-13.47.37:393][718]LogSavePackage: Moving '../../../../Unreal Projects/stungun/Saved/user_interface_widgetAD41DAAF493AFD171F8187A4E2B00C90.tmp' to '../../../../Unreal Projects/stungun/Content/ui/widgets/user_interface_widget.uasset'
+[2020.11.21-13.47.37:412][718]AssetCheck: New page: Asset Save: user_interface_widget
+[2020.11.21-13.47.37:412][718]LogContentValidation: Display: Validating WidgetBlueprint /Game/ui/widgets/user_interface_widget.user_interface_widget
+[2020.11.21-13.47.54:626][680]BlueprintLog: New page: Compile user_interface_widget
+[2020.11.21-13.47.54:680][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.11.21-13.47.55:044][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/widgets/user_interface_widget" FILE="../../../../Unreal Projects/stungun/Content/ui/widgets/user_interface_widget.uasset" SILENT=true
+[2020.11.21-13.47.55:062][719]LogSavePackage: Moving '../../../../Unreal Projects/stungun/Saved/user_interface_widget0A4DF90D4FD05F6D4A7BD98595C065CF.tmp' to '../../../../Unreal Projects/stungun/Content/ui/widgets/user_interface_widget.uasset'
+[2020.11.21-13.47.55:080][719]AssetCheck: New page: Asset Save: user_interface_widget
+[2020.11.21-13.47.55:080][719]LogContentValidation: Display: Validating WidgetBlueprint /Game/ui/widgets/user_interface_widget.user_interface_widget
+[2020.11.21-13.48.16:248][150]BlueprintLog: New page: Compile user_interface_widget
+[2020.11.21-13.48.16:299][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.11.21-13.48.16:878][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/widgets/user_interface_widget" FILE="../../../../Unreal Projects/stungun/Content/ui/widgets/user_interface_widget.uasset" SILENT=true
+[2020.11.21-13.48.16:913][213]LogSavePackage: Moving '../../../../Unreal Projects/stungun/Saved/user_interface_widget8FE2D57A49C00A96C2E43C80AAB80853.tmp' to '../../../../Unreal Projects/stungun/Content/ui/widgets/user_interface_widget.uasset'
+[2020.11.21-13.48.16:928][213]AssetCheck: New page: Asset Save: user_interface_widget
+[2020.11.21-13.48.16:928][213]LogContentValidation: Display: Validating WidgetBlueprint /Game/ui/widgets/user_interface_widget.user_interface_widget
+[2020.11.21-13.48.18:093][340]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2020.11.21-13.48.18:133][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.11.21-13.48.19:303][340]LogSlate: Window 'Save Content' being destroyed
+[2020.11.21-13.48.19:327][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/1" FILE="../../../../Unreal Projects/stungun/Content/levels/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.21-13.48.19:352][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.11.21-13.48.19:398][340]LogSavePackage: Moving '../../../../Unreal Projects/stungun/Saved/10743699A44D09980ECAED9AAC90A6A71.tmp' to '../../../../Unreal Projects/stungun/Content/levels/1.umap'
+[2020.11.21-13.48.19:427][340]LogFileHelpers: Saving map '1' took 0.100
+[2020.11.21-13.48.19:445][341]AssetCheck: New page: Asset Save: 1
+[2020.11.21-13.48.19:445][341]LogContentValidation: Display: Validating World /Game/levels/1.1
+[2020.11.21-13.50.20:050][ 29]BlueprintLog: New page: Compile user_interface_widget
+[2020.11.21-13.50.20:102][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.11.21-13.50.20:469][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/widgets/user_interface_widget" FILE="../../../../Unreal Projects/stungun/Content/ui/widgets/user_interface_widget.uasset" SILENT=true
+[2020.11.21-13.50.20:487][ 64]LogSavePackage: Moving '../../../../Unreal Projects/stungun/Saved/user_interface_widget730DE18F4B0A6DC9C0B838A76399E25E.tmp' to '../../../../Unreal Projects/stungun/Content/ui/widgets/user_interface_widget.uasset'
+[2020.11.21-13.50.20:498][ 64]AssetCheck: New page: Asset Save: user_interface_widget
+[2020.11.21-13.50.20:498][ 64]LogContentValidation: Display: Validating WidgetBlueprint /Game/ui/widgets/user_interface_widget.user_interface_widget
+[2020.11.21-13.50.28:319][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
